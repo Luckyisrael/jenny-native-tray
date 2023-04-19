@@ -2,57 +2,81 @@ import images from './images';
 
 const wines = [
   {
-    title: 'Chapel Hill Shiraz',
-    price: '$56',
-    tags: 'AU | Bottle',
+    title: 'Daily Meals',
+    tags: 'Fill your stomach with RICH meals',
   },
   {
-    title: 'Catena Malbee',
-    price: '$59',
-    tags: 'AU | Bottle',
+    title: 'Bulk Packed Meals',
+    tags: 'Want to pack in bulk ? We got you😊',
   },
   {
-    title: 'La Vieillw Rose',
-    price: '$44',
-    tags: 'FR | 750 ml',
+    title: 'Lunch Packs',
+    tags: 'Perfect Lunch with Protein of your choice',
   },
   {
-    title: 'Rhino Pale Ale',
-    price: '$31',
-    tags: 'CA | 750 ml',
+    title: 'Food Deliver',
+    tags: 'Mountain can go to Mohammed too😊',
   },
   {
-    title: 'Irish Guinness',
-    price: '$26',
-    tags: 'IE | 750 ml',
+    title: 'Event Catering',
+    tags: 'Let us cover your event',
+  },
+  {
+    title: 'Cake & Pasteries',
+    tags: 'We leave you begging for more with our pasteries',
   },
 ];
 
 const cocktails = [
   {
-    title: 'Aperol Sprtiz',
-    price: '$20',
-    tags: 'Aperol | Villa Marchesi prosecco | soda | 30 ml',
+    title: 'Afang ',
+    price: 'NGN 1,500',
+    tags: 'Dry Fish | Stock Fish | Meat | 50 cl water',
   },
   {
-    title: "Dark 'N' Stormy",
-    price: '$16',
-    tags: 'Dark rum | Ginger beer | Slice of lime',
+    title: 'Melon ',
+    price: 'NGN 1,500',
+    tags: 'Dry Fish | Stock Fish | Meat | 50 cl water',
   },
   {
-    title: 'Daiquiri',
-    price: '$10',
-    tags: 'Rum | Citrus juice | Sugar',
+    title: 'Okra ',
+    price: 'NGN 1,500',
+    tags: 'Dry Fish | Stock Fish | Meat | 50 cl water',
   },
   {
-    title: 'Old Fashioned',
-    price: '$31',
-    tags: 'Bourbon | Brown sugar | Angostura Bitters',
+    title: 'Sea Okra',
+    price: 'NGN 2,000',
+    tags: 'Dry Fish | Stock Fish | Meat | 50 cl water',
   },
   {
-    title: 'Negroni',
-    price: '$26',
-    tags: 'Gin | Sweet Vermouth | Campari | Orange garnish',
+    title: 'Edinkanikong',
+    price: 'NGN 1,500',
+    tags: 'Dry Fish | Stock Fish | Meat | 50 cl water',
+  },
+  {
+    title: 'Editan',
+    price: 'NGN 1,500',
+    tags: 'Dry Fish | Stock Fish | Meat | 50 cl water',
+  },
+  {
+    title: 'Atama',
+    price: 'NGN 2,000',
+    tags: 'Dry Fish | Stock Fish | Meat | 50 cl water',
+  },
+  {
+    title: 'Native',
+    price: 'NGN 2,000',
+    tags: 'Dry Fish | Stock Fish | Meat | 50 cl water',
+  },
+  {
+    title: 'Fisherman',
+    price: 'NGN 2,500',
+    tags: 'Dry Fish | Stock Fish | Meat | 50 cl water',
+  },
+  {
+    title: 'jenny  Special Soup',
+    price: 'NGN 2,500',
+    tags: 'Dry Fish | Stock Fish | Meat | 50 cl water',
   },
 ];
 
